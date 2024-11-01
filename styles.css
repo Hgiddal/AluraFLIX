@@ -1,4 +1,10 @@
 body {
     background: blueviolet;
-    color:aqua
+    color:aqua;
+}
+
+header{
+    border-bottom: solid 2px var (rgb(65, 65, 122));
+    padding: 20px;
+    font-size: 30px;
 }
