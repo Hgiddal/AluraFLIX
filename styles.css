@@ -1,6 +1,6 @@
 body {
-    background: blueviolet;
-    color:aqua;
+    background: rgb(43, 168, 226);
+    color:rgb(21, 124, 76);
 }
 
 header{
@@ -8,4 +8,17 @@ header{
     padding: 20px;
     font-size: 30px;
     color:aliceblue
-}
+ }
+ 
+ section {
+    background: #782f5d;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+ }
+
+  .chamada-texto { 
+    margin-right:7%;
+
+  }
