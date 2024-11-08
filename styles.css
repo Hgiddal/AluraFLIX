@@ -1,6 +1,6 @@
 body {
     background: rgb(43, 168, 226);
-    color:rgb(21, 124, 76);
+    color:rgb(255, 255, 255);
 }
 
 header{
@@ -19,6 +19,6 @@ header{
  }
 
   .chamada-texto { 
-    margin-right:7%;
+    margin-right: 5%;
 
   }
