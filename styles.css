@@ -1,32 +1,43 @@
 body {
-    background: rgb(43, 168, 226);
-    color:rgb(255, 255, 255); 
-    font-family: "Sour Gummy", sans-serif;
+  background: rgb(43, 168, 226);
+  color: rgb(255, 255, 255);
+  font-family: "Sour Gummy", sans-serif;
 }
 
-header{
-    border-bottom: solid 2px var (rgb(65, 65, 122));
-    padding: 20px;
-    font-size: 30px;
-    color:aliceblue;
- }
- 
- section {
-    background: #782f5d;
-    padding-bottom: 80px;
-    padding-top: 80px;
-    display: flex;
-    justify-content: center;
- }
+header {
+  border-bottom: solid 2px var (rgb(65, 65, 122));
+  padding: 20px;
+  font-size: 30px;
+  color: aliceblue;
+}
 
-  .chamada-texto { 
-    margin-right: 5%;
+.chamada {
+  background: #782f5d;
+  padding-bottom: 80px;
+  padding-top: 80px;
+  display: flex;
+  justify-content: center;
+}
 
-  }
+.chamada-texto {
+  margin-right: 5%;
 
-  h1 {
-    font-size: 35px;
-  }
-  p {
-    font-size: 20px;
-  }
+}
+
+h1 {
+  font-size: 35px;
+}
+
+p {
+  font-size: 20px;
+}
+
+img {
+  height: 200px;
+}
+
+.categoria-videos {
+  display: flex;
+  overflow-x: auto;
+  gap: 10px;
+}
